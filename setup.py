@@ -27,8 +27,8 @@ setup(
         'Programming Language :: Python :: 3',
     ],
     install_requires = [
-        "ply=3.11",
-        "plyara=2.1.1",
-        "yara-python=4.3.1"
+        "ply==3.11",
+        "plyara==2.1.1",
+        "yara-python==4.3.1"
     ]
 )
